@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: kremdion.github.io #do not add http://
     linkedin: dkremetis
-    xing: alandoe
+    xing:
     github: kremdion
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #
 
     languages:
       title: Languages
@@ -51,35 +51,31 @@ sidebar:
         - item: Cinema
           link:
 
-        - item: Cooking
+        - item: Science book reading
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a computer and technology enthousiast. Started my carreer as a hardware
+      engineer and made it to Devops. Strong problem solver, trying to develop my 
+      skills and knowledge every day while getting result. Teamplayer
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Communication Networks and Systems Security
+        university: Aristotle University of Thessaaloniki
+        time: 2018 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            - Optical networks, 5G, LoRa, Cryptography, CCNA Basics
+      - degree: BSc in Computer Science
+        university: Aristotle University of Thessaaloniki
+        time: 2009 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,9 +88,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Devops Engineer
+        time: 2020 - Present
+        company: Schoox Inc, Thessaloniki, Greece
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,9 +103,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Field Engineer
+        time: 2016 - 2019
+        company: Space Hellas, Greece
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,9 +114,21 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: User Support & System Administrator
+        time: 2015 - 2016
+        company: Radio Thessaloniki, Thessaloniki, Greece
+        details: |
+          During my 8-month period in Radio Thessaloniki, i was responsible of
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: User Support & Computer Technician
+        time: 2012 - 2015
+        company: Radio Thessaloniki, Thessaloniki, Greece
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -178,16 +186,16 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Geranoi Lefteris website
+        link: "https://geranoilefteris.gr"
+        tagline: "A responsive website for bussines presentation, written in nodeJS, express and bootstrap."
 
-      - title: DevStudio
-        link: "#"
+      - title: Hellenic Machinery website
+        link: "https://hellenic-machiney.com"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: Kremetis website
+        link: "https://kremetis.gr"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
