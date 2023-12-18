@@ -81,8 +81,9 @@ education:
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - Optical networks, 5G, LoRa, Cryptography, CCNA Basics
+            - Thesis title: Research and Simulation of bi-directional traffic in LoRaWan Networks
       - degree: BSc in Computer Science
-        university: Aristotle University of Thessaaloniki
+        university: Aristotle University of Thessaloniki
         time: 2009 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -91,7 +92,7 @@ education:
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - Bullet point
-            - Bullet point
+            - Thesis title: Simulation and Evaluation of IEEE 802.11 protocol
 
 experiences:
     title: Experiences
@@ -116,13 +117,13 @@ experiences:
         time: 2016 - 2019
         company: Space Hellas, Greece
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Started my position in Space Hellas participating in large IT projects
+          including fixing problems in IT equipment in large organizations. Worked on CCTV, 
+          alarm systems and physical security. Finally, started working with network devices, 
+          mainly Cisco, configuring new devices and troubleshooting existing networks. Participated 
+          in large projects for TAP, HTO and multiple banking organizations.
+            - CCTV, Physical Security, Alarm Systems, IT Equipment
+            - Cisco equipment, Switching, Routing, Firewalls
       - role: User Support & System Administrator
         time: 2015 - 2016
         company: Radio Thessaloniki, Thessaloniki, Greece
