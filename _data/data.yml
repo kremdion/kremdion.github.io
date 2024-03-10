@@ -96,34 +96,32 @@ experiences:
         time: 01/2023 - Present
         company: Schoox Inc, Thessaloniki, Greece
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          In my current role as a DevOps Engineer, I am responsible for optimizing infrastructure and deployment pipelines to ensure seamless
+          software delivery and operational efficiency. Leveraging my expertise in Linux administration, shell scripting, Jenkins, Terraform, 
+          Kubernetes, and AWS, I design and implement automated processes to streamline development workflows and enhance system reliability. 
+          I collaborate closely with cross-functional teams to identify areas for improvement and implement scalable solutions that align with 
+          business objectives. Additionally, I am involved in monitoring and maintaining cloud infrastructure, ensuring high availability and security.
+          My strong problem-solving skills and adaptability enable me to effectively troubleshoot issues and implement innovative solutions to 
+          complex technical challenges. I am passionate about continuous improvement and stay updated with the latest trends and best practices
+          in DevOps and cloud computing to drive organizational success.
             - AWS
             - Shell Scripting, Linux
             - Terraform, Ansible
             - Jenkins
-            - Rundeck
+            - Kubernetes
       - role: IT Engineer
         time: 01/2020 - 12/2022
         company: Schoox Inc, Thessaloniki, Greece
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - AWS
+          As an IT engineer at Schoox, i had a pivotal role in ensuring smooth operations and efficient technology utilization across 
+          both the Greece and US offices. My responsibilities were multifaceted and essential to maintaining a productive work environment for end users
+          including the followings. System administration like Okta and Office365, provide comprehensive user support, addressing technical issues and 
+          troubleshooting queries for employees in both Greece and the US. implemented automation solutions for deploying laptops and applications. 
+          These automated processes streamline deployment procedures, saving time and reducing the likelihood of errors. Collaboration with the 
+          security team and contributing to SOC2 and ISO programs, aligning IT practices with regulatory requirements and industry standards. 
+          Help safeguard Schoox's data and infrastructure from potential threats.
+            - Asset management, automations, user support
+            - SOC2, ISO 27001
       - role: Field Engineer
         time: 06/2016 - 12/2019
         company: Space Hellas, Greece
@@ -246,7 +244,7 @@ publications:
       - title: "Voxxed Days"
         link: "https://voxxeddays.com/thessaloniki/"
         authors: Voxxed Days
-        conference: "Vellidio Convention Center, Thessaloniki, Greece, June 24-25th 2022"
+        conference: "Thessaloniki, Greece, June 24-25th 2022"
 
       - title: "Building Blocks for Internet of Things"
         link: "https://kedea.rc.auth.gr/"
