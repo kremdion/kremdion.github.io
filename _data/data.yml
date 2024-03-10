@@ -113,10 +113,10 @@ experiences:
         time: 01/2020 - 12/2022
         company: Schoox Inc, Thessaloniki, Greece
         details: |
-          As an IT engineer at Schoox, i had a pivotal role in ensuring smooth operations and efficient technology utilization across 
+          As an IT engineer at Schoox, I had a pivotal role in ensuring smooth operations and efficient technology utilization across 
           both the Greece and US offices. My responsibilities were multifaceted and essential to maintaining a productive work environment for end users
-          including the followings. System administration like Okta and Office365, provide comprehensive user support, addressing technical issues and 
-          troubleshooting queries for employees in both Greece and the US. implemented automation solutions for deploying laptops and applications. 
+          including the followings: System administration like Okta and Office365, provide comprehensive user support, addressing technical issues and 
+          troubleshooting queries for employees in both Greece and the US. Implemented automation solutions for deploying laptops and applications. 
           These automated processes streamline deployment procedures, saving time and reducing the likelihood of errors. Collaboration with the 
           security team and contributing to SOC2 and ISO programs, aligning IT practices with regulatory requirements and industry standards. 
           Help safeguard company's data and infrastructure from potential threats.
@@ -138,7 +138,7 @@ experiences:
         time: 11/2015 - 05/2016
         company: Radio Thessaloniki, Thessaloniki, Greece
         details: |
-          During my 8-month period in Radio Thessaloniki, i was responsible for supporting users of the organization in terms of workstations, 
+          During my 8-month period in Radio Thessaloniki, I was responsible for supporting users of the organization in terms of workstations, 
           printers, ip phones and others. Supported company's ERP system. Managing and maintaining organization's infrastructure in terms of 
           servers, switches, routers, etc. 
             - workstations, printers, monitors, peripherals
@@ -271,7 +271,7 @@ skills:
         level: 95%
 
       - name: Python
-        level: 85%
+        level: 90%
 
       - name: Shell Scripting
         level: 90%
